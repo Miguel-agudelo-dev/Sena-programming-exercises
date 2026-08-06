@@ -1,3 +1,3 @@
 # Exercise 1 - sena 
-name = "miguel"
+name = "Miguel"
 print("hello", name, "welcome to GitHub")
